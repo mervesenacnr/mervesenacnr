@@ -4,14 +4,15 @@
 <h3 align="center">But you can call me just Merve 🙋🏻‍♀️</h3>
 
 <h3>ABOUT ME:</h3>
-- 🐌 **22 years old**
--🐌 **computer engineering student**
--🐌 **study in Istanbul**
--🐌 **live in Izmir**
+ <h4>🐌22 years old  </h4>
+  <h4>🐌computer engineering student  </h4>
+   <h4>🐌study in Istanbul </h4>
+    <h4>🐌live in Izmir </h4>
+
 
 <h3>CONNECT WITH ME:</h3>
--🐌**linkedin: mervesenacinar**
--🐌**email: mervesenacinar01@gmail.com**
+<h4>🐌linkedin: mervesenacinar</h4>
+<h4>🐌email: mervesenacinar01@gmail.com</h4>
 
 <h3>LANGUEGES AND TOOLS:</h3>
 
