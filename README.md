@@ -1,3 +1,6 @@
+<head> </head>
+<body style="background-color:powderblue;">
+
 ![lofi-gif-wallpapers-113375-2188253-7509678](https://user-images.githubusercontent.com/108677888/221403271-ef31910d-1b42-4caa-b8a2-ef3cdb0a76eb.png)
 
 <h1 align="center">Hi!🥀 My name is Merve Sena 👩🏻‍💻</h1>
@@ -16,3 +19,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/mervesenacinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervesenacinar" height="30" width="40" /></a>
 </p>
+</body>
