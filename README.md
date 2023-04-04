@@ -4,9 +4,7 @@
 <h3 align="center">But you can call me just Merve 🙋🏻‍♀️</h3>
 
 <h3 align= "center">About Me:</h3>
- <p align= "center">☎ 22 years old  </p>
-  <p align= "center">☎ computer engineering student  </p>
-   <p align= "center">☎ study in Istanbul </p>
+  <p align= "center">☎ 22 years old computer engineering student in Istanbul  </p>
     <p align= "center">☎ live in Izmir </p>
 
 <h3 align="center">Languages and Tools:</h3>
