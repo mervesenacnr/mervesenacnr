@@ -1,7 +1,6 @@
 ![lofi-gif-wallpapers-113375-2188253-7509678](https://user-images.githubusercontent.com/108677888/221403271-ef31910d-1b42-4caa-b8a2-ef3cdb0a76eb.png)
 
-<h1 align="center">Hi!🥀 My name is Merve Sena 👩🏻‍💻</h1>
-<h3 align="center">But you can call me just Merve 🙋🏻‍♀️</h3>
+<h1 align="center">Hi!🥀 I'm Merve Sena 👩🏻‍💻</h1>
 
 <h3 align= "center">About Me:</h3>
   <p align= "center">☎ 22 years old computer engineering student in Istanbul  </p>
