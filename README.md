@@ -12,3 +12,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/mervesenacinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervesenacinar" height="30" width="40" /></a>
 </p>
+
+<div>
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mervesenacnr&theme=dracula" />
+  <img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervesenacnr&layout=compact&theme=dracula" />
+</div>
