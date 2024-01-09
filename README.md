@@ -17,3 +17,7 @@
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mervesenacnr&theme=dracula" />
   <img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervesenacnr&layout=compact&theme=dracula" />
 </div>
+
+<div>
+<img align="center" src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
