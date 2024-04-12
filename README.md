@@ -4,20 +4,22 @@
   
 ```javascript
 const merve_s = {
-    bio: "Hi!👋🏻 22 years old computer engineering student in Istanbul",
+    bio: "Hi!👋🏻 I'm a 22-year-old computer engineering student in Istanbul.",
     goals: {
         career: {
-            RD: ["experience:", "Central Securities Depository of the Turkish capital markets (MKK / Borsa Istanbul)"],
-            data_science: ["developing various projects related to this field"],
-            game_development: ["projects at the idea stage that I want to do in the future..."],
+            RD: {
+                experience: "Central Securities Depository of the Turkish capital markets (MKK / Borsa Istanbul)"
+            },
+            data_science: "developing various projects related to this field",
+            game_development: "projects at the idea stage that I want to do in the future..."
         },
         hobbies: {
             art: ["sketch", "digital drawing", "Blender", "Adobe Illustrator"],
-            drink_coffee: ["every day"],
-            play: ["video games"],
-        },
+            drink_coffee: "every day",
+            play: "video games"
+        }
     },
-    motto: "Do what you love, love what you do 🩷",
+    motto: "Do what you love, love what you do 🩷"
 };
 ```
 
