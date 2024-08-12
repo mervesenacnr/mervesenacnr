@@ -4,7 +4,7 @@
   
 ```javascript
 const merve_s = {
-    bio: "Hi!👋🏻 I'm a 22-year-old computer engineering student in Istanbul.",
+    bio: "Hi!👋🏻 I'm a 23-year-old computer engineering student in Istanbul.",
     goals: {
         career: {
             RD: {
