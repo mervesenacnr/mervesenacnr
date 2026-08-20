@@ -3,22 +3,55 @@
 <h2>Who is Merve?..  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjk4MDNsZXF1ZngzbDJ2YjR5YXNubWg1N2doZThwbnY2amFweGVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fWrorpy7Jrlvi/giphy.gif" width="50"></h2>
   
 ```javascript
-const merve_s = {
-    bio: "Hi!👋🏻 I'm a 23-year-old computer engineering student in Istanbul.",
-    goals: {
-        career: {
-            RD: {
-                experience: "Central Securities Depository of the Turkish capital markets (MKK / Borsa Istanbul)"
-            },
-            data_science: "developing various projects related to this field",
-            game_development: "projects at the idea stage that I want to do in the future..."
-        },
-        hobbies: {
-            art: ["sketch", "digital drawing", "Blender", "Adobe Illustrator"],
-            drink_coffee: "every day",
-            play: "video games"
-        }
+const merve_sena_cinar = {
+    bio: "Hi! 👋🏻 I'm Merve, a Computer Engineer based in Istanbul.",
+
+    education: {
+        BSc: "Computer Engineering @ Üsküdar University 🎓",
+        MSc: "Computer Engineering @ Istanbul University"
     },
+
+    work: {
+        ArVis_Technology: "AI, Deepfake Audio Detection",
+        Outlier_AI: "AI Training & LLM Evaluation",
+        UPNA: "Data Science R&D 🇪🇸",
+        Amadeus: "Full-Stack Development",
+        MayaICT: "Cloud Engineer",
+        MKK: "Backend & REST API Development"
+    },
+
+    research: [
+        "Artificial Intelligence & Machine Learning",
+        "Speech Processing & Voice Anti-Spoofing",
+        "Fraud & Forensic",
+        "Data Science",
+        "Biomedical Machine Learning",
+        "Time-Series Forecasting"
+    ],
+
+    tech: [
+        "Python",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "Docker",
+        "Git"
+    ],
+
+    leadership: {
+        GEZIDER: "IT Project Team Lead",
+        STEM_Projects: "Co-Founder & President",
+        UskuBAT: "R&D Director"
+    },
+
+    interests: [
+        "Mobile Development 📱",
+        "Game Development 🎮",
+        "Digital Art 🎨",
+        "Coffee ☕"
+    ],
+
     motto: "Do what you love, love what you do 🩷"
 };
 ```
