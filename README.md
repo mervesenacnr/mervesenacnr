@@ -12,7 +12,7 @@ const merve_sena_cinar = {
     },
 
     work: {
-        ArVis_Technology: "AI, Deepfake Audio Detection",
+        ArVis_Technology: "R&D Engineer",
         Outlier_AI: "AI Training & LLM Evaluation",
         UPNA: "Data Science R&D 🇪🇸",
         Amadeus: "Full-Stack Development",
